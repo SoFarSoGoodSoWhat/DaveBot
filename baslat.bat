@@ -1,2 +1,0 @@
-SET TOKEN="NzIxNDAyMTcyNTc4OTg4MDQy.XuoPSg.tfRoLF96aaP3FIk2UxFU8P9StTU"
-node bot.js
